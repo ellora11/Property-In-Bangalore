@@ -72,11 +72,8 @@ This project provides a comprehensive analysis of the Bangalore real estate mark
 
 ---
 
-<h3 align="center"> Made with ❤️ by [Your Name] </h3>
-"""
+<h3 align="center"> by Monalisa Arya </h3>
 
-# Write the content to a README.md file
-with open("README.md", "w") as f:
-    f.write(readme_content)
 
-print("README.md file created successfully!")
+
+
