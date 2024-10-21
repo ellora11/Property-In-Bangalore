@@ -1,7 +1,4 @@
-# Code to generate README.md for the project with HTML-style headings
 
-# Define the content of the README
-readme_content = """
 <h1 align="center">Bangalore Real Estate Analysis</h1>
 
 <h3 align="center">📊 A Data Science Approach to Analyze Property Trends in Bangalore</h3>
